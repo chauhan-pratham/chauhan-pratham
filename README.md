@@ -4,17 +4,14 @@ Computer Science student with a fervent dedication to exploring ethical hacking,
 
 ## 🌱 About Me
 
-- 🔭 I’m currently working on ______________________
-- 🌱 I’m currently learning ________________________
-- 👯 I’m looking to collaborate on _________________
-- 🤔 I’m looking for help with _____________________
-- 💬 Ask me about __________________________________
-- 📫 How to reach me: ______________________________
+- 🔭 I’m currently working on Fileless Malware Detection using Machine Learning
+- 🌱 I’m currently learning Cyber Forensics and Ethical Hacking
+- 📫 How to reach me: https://www.instagram.com/pratham_chauhan_812/
 
 ## 🚀 My Skills
 
 - Programming languages: C,C++
-- Technologies & Tools: Autocad LT, Git, Linux, Oracle Live Sql
+- Technologies & Tools: Autocad LT, Git, Kali Linux etc
 
 ## 💼 Experience
 
